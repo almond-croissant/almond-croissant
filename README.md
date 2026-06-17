@@ -2,12 +2,11 @@
 
 🌱 I'm currently learning:
 
-- Backend Development
 - Machine Learning
 
 💻 Technologies I work with:
 
-- JavaScript
+- Python
 
 📫 Reach me at: sushanthbhat59@gmail.com
 
