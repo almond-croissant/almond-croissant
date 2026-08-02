@@ -2,11 +2,13 @@
 
 🌱 I'm currently learning:
 
-- Machine Learning
+- AI Engineering
+- Big Data
 
 💻 Technologies I work with:
 
 - Python
+- Javascript
 
 📫 Reach me at: sushanthbhat59@gmail.com
 
