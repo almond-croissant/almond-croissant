@@ -2,7 +2,7 @@
 
 🌱 I'm currently learning:
 
-- Data Analytics
+- Machine Learning
 - Big Data
 
 💻 Technologies I work with:
